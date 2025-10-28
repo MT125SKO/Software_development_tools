@@ -1,0 +1,1 @@
+print("Languages:\n\tPtthon\n\tC\tlavascript")
